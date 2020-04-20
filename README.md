@@ -1,25 +1,44 @@
 # Bootstrap Workshop
 
-Hello and welcome!!
+Download a text editor: Sublime [https://www.sublimetext.com/3] or VScode [https://code.visualstudio.com/]
 
-Todays workshop is all about the Bootstrap. [https://getbootstrap.com/]. 
+Todays workshop is all about Bootstrap. [https://getbootstrap.com/]. 
 
-What we'll cover:
-What is bootstrap?
-How do I set up a project?
-How do I import Bootstrap?
-What are these classes? Are these magic words? How do they work?
+Focus Questions:
+- What does the CSS code behind a bootstrap class look like? 
+- 
 
 
 Setup
-TODO
+First get the CSS link to enable classes
+https://getbootstrap.com/docs/4.4/getting-started/introduction/
+
 
 Exercise 1
 TODO
 
 Exercise 2
-TODO
+Now get the Javascript link
+https://getbootstrap.com/docs/4.4/getting-started/introduction/
+
+
 
 Exercise 3
 Push it all to Netlify
+
+
+Resources to continue learning
+Good resources: https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Flexbox
+Fun game: https://flexboxfroggy.com/
+
+
+
+
+Contact Us
+
+Sheila [https://www.linkedin.com/in/sheilaleveille/]
+Ben [https://www.linkedin.com/in/benjaminquartermaine/]
+
+
+
 
